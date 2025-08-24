@@ -1,5 +1,5 @@
 # MySmartContract
-Tenjiku Coin (TENJIKU) is an advanced cryptocurrency built on the Ethereum network, designed to offer secure, efficient, and decentralized transactions. Our mission is to provide a reliable digital currency for various applications, including decentralized finance (DeFi) and digital payments.   
+Tenjiku Coin (TENJIKU) is an advanced cryptocurrency built on the Polygon Network, designed to offer secure, efficient, and decentralized transactions. Our mission is to provide a reliable digital currency for various applications, including decentralized finance (DeFi) and digital payments.   
 
 1. Key Features:    
 Secure Transactions: Utilizes advanced cryptographic techniques to ensure security and integrity.  
