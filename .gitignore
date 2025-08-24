@@ -1,0 +1,56 @@
+# Ignore node modules
+node_modules/
+
+# Ignore compiled contracts
+build/
+artifacts/
+
+# Ignore environment files
+.env
+
+# Ignore dependency directories
+lib/
+libraries/
+
+# Ignore cache directories
+cache/
+.cached/
+
+# Ignore local development environment files
+*.swp
+*.swo
+*.swn
+*.swo
+*.log
+*.DS_Store
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore yarn debug logs
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore coverage reports
+coverage/
+
+# Ignore Hardhat cache and artifacts
+hardhat-cache/
+hardhat-artifacts/
+
+# Ignore Truffle build files
+truffle-build/
+
+# Ignore test files and directories
+test/
+tests/
+
+# Ignore local configuration files
+*.local
